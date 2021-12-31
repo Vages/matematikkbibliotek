@@ -1,0 +1,22 @@
+{
+  "name": "matematikkbibliotek",
+  "version": "1.0.0",
+  "description": "Some simple mathematics calculation functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vages/matematikkbibliotek.git"
+  },
+  "author": "Eirik Vågeskar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vages/matematikkbibliotek/issues"
+  },
+  "homepage": "https://github.com/Vages/matematikkbibliotek#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
